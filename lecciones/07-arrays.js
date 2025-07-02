@@ -12,3 +12,5 @@ console.log(companeros);
 
 console.log(companeros.length);
 
+//la palabra reservada typeof sirve para ver el tipo de dato al que pertenece el elemento
+console.log(typeof companeros); 
